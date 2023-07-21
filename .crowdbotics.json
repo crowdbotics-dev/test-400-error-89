@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.3.0",
+    "cookiecutter_context": {
+      "project_name": "test-400-error",
+      "project_slug": "test_400_error_89",
+      "project_dash_slug": "test-400-error-89",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "eduardo@crowdbotics.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
